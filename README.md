@@ -15,3 +15,5 @@ The game is pretty simple.
 To Start, click on "Start" and wait.  
 Now it's time to guess the words. Click on each letter and hit "Check".  
 If the word is in the dictionary, the count label will decrease until the player guesses all words.
+
+![Interface](http://s16.postimg.org/y92bsg145/Screenshot_from_2016_03_17_19_12_03.png)
