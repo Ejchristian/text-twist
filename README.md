@@ -1,6 +1,6 @@
 # Text Twist
 
-Simple Text Twist game developed in the Webb Applications Security course (CPEG 470) / Spring 2016 / University of Delaware
+Simple Text Twist game developed in the Web Applications Security course (CPEG 470) / Spring 2016 / University of Delaware
 
 A random rack and its possible words are retrieved from a back-end PHP file using AJAX. The dictionary is stored in a SQLite database.
 
